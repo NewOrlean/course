@@ -1,0 +1,36 @@
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: 0;
+}
+
+.list li {
+margin-bottom: 8px;
+border-bottom: 1px solid grey;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.table td:hover {
+    background: #eeefff;
+}
+
+/* .table tr:nth-child(even) {
+    background: #eee;
+} */
+
+.table tr:nth-child(odd) {
+    background: #eee;
+} 
+
+.table td:nth-child(2), .table td:nth-child(4) {
+    background: #fffeee;
+}

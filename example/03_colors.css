@@ -1,0 +1,24 @@
+.color-1 {
+    color: Crimson;
+}
+
+/* RGB */
+.color-2 {
+    /* color: #DAA520; */
+    color: #000000;
+}
+
+.color-3 {
+color: #ddd;
+}
+
+/* 0-255 */
+.color-4 {
+    color: rgb(0, 150, 0);
+    opacity: 0.2;
+    }  
+
+/* RGBA */
+.color-5 {
+    color: rgba(0, 150, 0, 0.2);
+    }  

@@ -1,0 +1,41 @@
+/* Абсолютно всем элементам */
+/* *{} */
+
+
+/* Tag Name */
+body {
+    background: rgb(120, 202, 198);
+}
+
+
+/* Class */
+.card {
+    /* padding: 10px;*/
+    background: rgb(214, 214, 214); 
+    /* margin-bottom: 10px;   */
+} 
+
+
+.card p {
+font-size: 20px;
+}  
+
+/* Id */
+#header {
+    background: #ddd;
+    padding: 10px;
+}
+
+#header {
+    margin-bottom:  10px;
+} 
+
+.html {
+    background: orange;
+    color: white;
+}
+
+.css {
+    background: green;
+    color: yellow;
+}
